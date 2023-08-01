@@ -1,5 +1,5 @@
 # Single-Sentence Reader: A Novel Approach for Addressing Answer Position Bias
-![An Illustration of the Inner Workings of Single-Sentence Reader](/pipeline.pdf)
+![An Illustration of the Inner Workings of Single-Sentence Reader](/pipeline.png)
 ## Introduction
 This repository contains the source code for the architectures described in the following paper:
 >**Single-Sentence Reader: A Novel Approach for Addressing Answer Position Bias**<br>
