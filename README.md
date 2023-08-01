@@ -3,7 +3,9 @@
 ## Introduction
 This repository contains the source code for the architectures described in the following paper:
 >**Single-Sentence Reader: A Novel Approach for Addressing Answer Position Bias**
+
 >Son Quoc Tran, Matt Kretchmar
+
 >Computer Science Department, Denison University, Granville, Ohio
 
 Machine Reading Comprehension (MRC) models tend to take advantage of spurious correlations (also known as dataset bias or annotation artifacts in the research community). Consequently, these models may perform the MRC task without fully comprehending the given context and question, which is undesirable since it may result in low robustness against distribution shift. This paper delves into the concept of answer-position bias, where a significant percentage of training questions have answers located solely in the first sentence of the context. We propose a Single-Sentence Reader as a new approach for addressing answer position bias in MRC. We implement this approach using six different models and thoroughly analyze their performance. Remarkably, our proposed Single-Sentence Readers achieve results that nearly match those of models trained on conventional training sets, proving their effectiveness. Our study also discusses several challenges our Readers encounter and proposes a potential solution. 
