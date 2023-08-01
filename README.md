@@ -79,7 +79,7 @@ python code/run_qa.py \
 ```
 code/evaluate_single-sentence.py <dataset_file> <prediction_file>
 ```
-**Note: ** `dataset_file` mentioned here is a JSON file formatted for use with `code/run_qa.py`. It is the same file used for prediction in the previous part.
+***Note:*** `dataset_file` mentioned here is a JSON file formatted for use with `code/run_qa.py`. It is the same file used for prediction in the previous part.
 
 ---
 
