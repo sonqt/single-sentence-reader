@@ -21,7 +21,7 @@ pip install -r requirements.txt
 ```
 ## Preparing Data
 ### SQuAD
-Data was originates from SQuAD version 1.1. For further details, please refer to the [SQuAD explorer](https://github.com/rajpurkar/SQuAD-explorer/tree/master/dataset). 
+Data originates from SQuAD version 1.1. For further details, please refer to the [SQuAD explorer](https://github.com/rajpurkar/SQuAD-explorer/tree/master/dataset). 
 Save the downloaded train and dev sets in `/Data`
 ### Get Biased Data
 This part is partially adopted from [`KazutoshiShinoda/ShortcutLearnability`](https://github.com/kazutoshishinoda/shortcutlearnability).
