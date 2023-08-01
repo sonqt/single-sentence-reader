@@ -91,4 +91,4 @@ We also want to thank Krystal Ly for contributing to this project in its initial
 ```
 Arxiv Bibtex Here
 ```
-Please contact Son Quoc Tran at `tran_s2[at]denison.edu` and Matt Kretchmar at `kretchmar@denison.edu` if you have any questions.
+Please contact Son Quoc Tran at `tran_s2@denison.edu` and Matt Kretchmar at `kretchmar@denison.edu` if you have any questions.
