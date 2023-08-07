@@ -28,13 +28,13 @@ python src/position_bias.py <path_to_dataset> <analysis_save_path>
 ```
 
 ### Decontextualize SQuAD
-Use notebook `src/decontextualize_SQuAD.ipynb`
+Use notebook `code/decontextualize_SQuAD.ipynb`
 
 ### Training data
-Biased Set: <br>
-Single-Sentence w/o unanswerable: <br>
-Single-Sentence with unanswerable: <br>
-Normal Settings: <br>
+Biased Set: `Data/Shortcut/train/answer_position.json`<br>
+Single-Sentence w/o unanswerable: `Data/Shortcut/train/first_sent_answer_position.json`<br>
+Single-Sentence with unanswerable: `Data/Shortcut/train/first_sent_answer_position_unans.json`<br>
+Normal Settings: `Data/train-v1.1-27929-questions.json`<br>
 
 ## Training and Predicting
 This section is based on the code examples from [huggingface/transformers](https://github.com/huggingface/transformers/tree/main/examples/pytorch/question-answering)
