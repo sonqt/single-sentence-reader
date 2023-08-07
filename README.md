@@ -27,10 +27,15 @@ This part is partially adopted from [`KazutoshiShinoda/ShortcutLearnability`](ht
 python src/position_bias.py <path_to_dataset> <analysis_save_path>
 ```
 
-### Get Single-Sentence Training Data
-
 ### Decontextualize SQuAD
 Use notebook `src/decontextualize_SQuAD.ipynb`
+
+### Training data
+Biased Set: <br>
+Single-Sentence w/o unanswerable: <br>
+Single-Sentence with unanswerable: <br>
+Normal Settings: <br>
+
 ## Training and Predicting
 This section is based on the code examples from [huggingface/transformers](https://github.com/huggingface/transformers/tree/main/examples/pytorch/question-answering)
 
