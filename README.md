@@ -94,6 +94,13 @@ This codebase incorporates numerous public materials contributed by other resear
 We also want to thank Krystal Ly for contributing to this project in its initial phase, and Antony Silveira for his support with technical issues.
 ## Citation and Contact
 ```
-Arxiv Bibtex Here
+@misc{tran2023singlesentence,
+      title={Single-Sentence Reader: A Novel Approach for Addressing Answer Position Bias}, 
+      author={Son Quoc Tran and Matt Kretchmar},
+      year={2023},
+      eprint={2308.04566},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
 ```
 Please contact Son Quoc Tran at `tran_s2@denison.edu` and Matt Kretchmar at `kretchmar@denison.edu` if you have any questions.
