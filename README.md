@@ -24,7 +24,7 @@ Save the downloaded train and dev sets in `/Data`
 ### Get Biased Data
 This part is partially adopted from [`KazutoshiShinoda/ShortcutLearnability`](https://github.com/kazutoshishinoda/shortcutlearnability).
 ```
-python src/position_bias.py <path_to_dataset> <analysis_save_path>
+python code/position_bias.py <path_to_dataset> <analysis_save_path>
 ```
 
 ### Decontextualize SQuAD
